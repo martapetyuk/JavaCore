@@ -3,7 +3,7 @@ package Lesson1;
 public class Pool {
     private double length; // dlinna
 
-    // construktor
+    // construktori
     public Pool(double length){
         this.length = length;
     }
